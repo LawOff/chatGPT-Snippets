@@ -15,7 +15,7 @@
 </p>
 
 
-chatGPT+ is a powerful tool that adds extra features / tools to chatGPT.
+chatGPT+ is a powerful script that adds extra features / tools to chatGPT.
 
 ## Features
 
