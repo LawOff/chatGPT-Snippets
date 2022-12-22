@@ -17,14 +17,18 @@
 
 chatGPT+ is a powerful script that adds extra features / tools to chatGPT.
 
-## Features
+## Available Features
 
-### Speech-to-text
+### 💬 - Speech-to-text
 
 Convert spoken words into written text with the click of a button.
 
-### Copy past conversation
+<img width="600" alt="image" src="https://s9.gifyu.com/images/te.gif">
 
+
+## Soon Features
+
+### 🕒 - Copy past conversation
 Adds a button to retrieve the last text sent
 
 ## Getting started
@@ -39,7 +43,7 @@ To get started with chatGPT+, follow these steps:
 <img width="245" alt="image" src="https://user-images.githubusercontent.com/95545719/208895572-03607a4d-0a92-4a17-810d-04feb8255593.png">
 
 4. Paste your script into the script editor.
-<img width="509" alt="image" src="https://user-images.githubusercontent.com/95545719/208895280-8ef984c8-c447-46eb-b2cf-eebc1691952c.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/95545719/208895280-8ef984c8-c447-46eb-b2cf-eebc1691952c.png">
 
 
 5. Click the "Save" or "Ctrl+S" button to save your script.
@@ -48,7 +52,7 @@ To get started with chatGPT+, follow these steps:
 <img width="248" alt="image" src="https://user-images.githubusercontent.com/95545719/208895466-32ebb824-e92e-4770-9e11-dd491cfd52ae.png">
 
 
-Your script will now be executed every time you load a compatible page.
+Your script will now be executed every time you load on https://chat.openai.com/
 
 Alternatively, you can use a different extension that allows you to run scripts on websites. The process is similar, just install the extension and add your script in the same way.
 
@@ -56,6 +60,7 @@ Alternatively, you can use a different extension that allows you to run scripts 
 ## Contributing
 
 We welcome contributions to chatGPT+. If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request.
+You are also allowed to make your own scripts, and add them to the code.
 
 ## License
 
