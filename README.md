@@ -25,6 +25,8 @@ Convert spoken words into written text with the click of a button.
 
 <img width="600" alt="image" src="https://s9.gifyu.com/images/te.gif">
 
+<a Copy the script here
+
 
 ## Soon Features
 
