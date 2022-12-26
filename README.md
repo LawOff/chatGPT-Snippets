@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>chatGPT+</h1>
-  <p align="center"> Upgrade your chatbot experience using chatGPT+. </p>
+  <h1>chatGPT Addons</h1>
+  <p align="center"> Upgrade your chatbot experience. </p>
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 
-chatGPT+ is a powerful script that adds extra features / tools to chatGPT.
+Add extra features / tools to chatGPT.
 
 ## Available Features
 
