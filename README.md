@@ -21,11 +21,11 @@ Add extra features / tools to chatGPT.
 
 ### 💬 - Speech-to-text
 
-Convert spoken words into written text with the click of a button.
+Convert spoken words into written text with a single click.
 
 <img width="600" alt="image" src="https://s9.gifyu.com/images/te.gif">
 
-<a Copy the script here
+<b> Click [here](https://raw.githubusercontent.com/LawOff/chatGPT-Snippets/main/plugins/speechToText.plugin.js) to add this script to tampermonkey </b>
 
 
 ## Soon Features
