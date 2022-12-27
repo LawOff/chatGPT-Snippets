@@ -35,7 +35,7 @@ Adds a button to retrieve the last text sent
 
 ## Getting started
 
-To get started with chatGPT+, follow these steps:
+To get started to use any snippets, follow these steps:
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or a similar extension that allows you to run scripts on websites.
 
@@ -44,7 +44,7 @@ To get started with chatGPT+, follow these steps:
 3. Click on the option to "<b>Add a new script</b>".
 <img width="245" alt="image" src="https://user-images.githubusercontent.com/95545719/208895572-03607a4d-0a92-4a17-810d-04feb8255593.png">
 
-4. Paste your script into the script editor.
+4. Paste the snippet code into the script editor.
 <img width="754" alt="image" src="https://user-images.githubusercontent.com/95545719/209725118-76fbb857-d37c-4f61-9530-5eaef0afc55e.png">
 
 
