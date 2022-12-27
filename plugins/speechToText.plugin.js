@@ -12,7 +12,7 @@ class SpeechToText {
     ).singleNodeValue;
     this.textarea.classList.add("pr-10");
     this.textarea.style.paddingRight = "50px";
-    this.recognition.lang = "fr-FR";
+    this.recognition.lang = "en-US";
     this.recognition.continuous = true;
     this.recognition.interimResults = true;
     this.recognition.maxAlternatives = 1;
@@ -120,3 +120,7 @@ class SpeechToText {
     div.appendChild(button);
   }
 }
+
+window.addEventListener("load", () => {
+    const speechToText = new SpeechToText();
+});
