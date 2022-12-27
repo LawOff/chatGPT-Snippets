@@ -41,17 +41,17 @@ To get started with chatGPT+, follow these steps:
 
 2. Click on the Tampermonkey icon in your browser's navigation bar.
 
-3. Click on the option to "Add a new script".
+3. Click on the option to "<b>Add a new script</b>".
 <img width="245" alt="image" src="https://user-images.githubusercontent.com/95545719/208895572-03607a4d-0a92-4a17-810d-04feb8255593.png">
 
 4. Paste your script into the script editor.
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/95545719/208895280-8ef984c8-c447-46eb-b2cf-eebc1691952c.png">
+<img width="754" alt="image" src="https://user-images.githubusercontent.com/95545719/209725118-76fbb857-d37c-4f61-9530-5eaef0afc55e.png">
 
 
-5. Click the "Save" or "Ctrl+S" button to save your script.
+5. Click the "<b>Save</b>" or "<b>Ctrl+S</b>" button to save your script.
 
 6. Make sure the script is enabled.
-<img width="248" alt="image" src="https://user-images.githubusercontent.com/95545719/208895466-32ebb824-e92e-4770-9e11-dd491cfd52ae.png">
+<img width="267" alt="image" src="https://user-images.githubusercontent.com/95545719/209725090-434d4765-bb75-4b79-81e6-5f19229331bd.png">
 
 
 Your script will now be executed every time you load on https://chat.openai.com/
