@@ -61,7 +61,7 @@ Alternatively, you can use a different extension that allows you to run scripts 
 
 ## Contributing
 
-We welcome contributions to chatGPT+. If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request.
+We welcome contributions to this repo. If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request.
 You are also allowed to make your own scripts, and add them to the code.
 
 ## License
