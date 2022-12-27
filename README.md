@@ -17,7 +17,7 @@
 
 Add extra features / tools to chatGPT.
 
-## Available Features
+## Available Snippets
 
 ### 💬 - Speech-to-text
 
@@ -28,7 +28,7 @@ Convert spoken words into written text with a single click.
 <b> Click [here](https://raw.githubusercontent.com/LawOff/chatGPT-Snippets/main/plugins/speechToText.plugin.js) to add this script to tampermonkey </b>
 
 
-## Soon Features
+## Soon 
 
 ### 🕒 - Copy past conversation
 Adds a button to retrieve the last text sent
