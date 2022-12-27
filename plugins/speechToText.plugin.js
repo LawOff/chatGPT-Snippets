@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name         chatGPT speechToText
+// @namespace    https://github.com/LawOff/chatGPT-Snippets
+// @version      0.1
+// @description  Convert spoken words into written text with a single click.
+// @author       LawOff
+// @match        https://chat.openai.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=openai.com
+// ==/UserScript==
+
 class SpeechToText {
   constructor() {
     this.autoSend = true;
