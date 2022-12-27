@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>chatGPT Addons</h1>
+  <h1>chatGPT Snippets</h1>
   <p align="center"> Upgrade your chatbot experience. </p>
 </div>
 
